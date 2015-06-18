@@ -1,0 +1,14 @@
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\bin\Debug\asm_huyntps01809.exe.config
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\bin\Debug\asm_huyntps01809.exe
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\bin\Debug\asm_huyntps01809.pdb
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\bin\Debug\asm_huyntps01809.xml
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.frm_login.resources
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.Resources.resources
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.vbproj.GenerateResource.Cache
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.exe
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.xml
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.pdb
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.frm_main.resources
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.vbprojResolveAssemblyReference.cache
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.frm_kh.resources
+D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.frm_nv.resources
