@@ -1,5 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Imports System.Data.DataTable
+'sua code up len github
 Public Class frm_login
     Private Sub btn_Login_Click(sender As Object, e As EventArgs) Handles btn_Login.Click
         'Tạo Biến để kết nối đến cơ sở dữ liệu

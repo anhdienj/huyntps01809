@@ -12,3 +12,7 @@ D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01
 D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.vbprojResolveAssemblyReference.cache
 D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.frm_kh.resources
 D:\FPT Poly\INF205\Ass\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.frm_nv.resources
+C:\Users\trong\Documents\GitHub\huyntps01809\asm_huyntps01809\asm_huyntps01809\bin\Debug\asm_huyntps01809.exe.config
+C:\Users\trong\Documents\GitHub\huyntps01809\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.exe
+C:\Users\trong\Documents\GitHub\huyntps01809\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.xml
+C:\Users\trong\Documents\GitHub\huyntps01809\asm_huyntps01809\asm_huyntps01809\obj\Debug\asm_huyntps01809.pdb
